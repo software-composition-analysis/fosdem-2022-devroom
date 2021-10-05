@@ -1,4 +1,5 @@
 # FOSDEM 2022
+Devroom Title: "Software composition and dependency management"
 
 As we all assemble more and more complex software from an ever growing number of free and open source software components, knowing what's in our code is a must for security, legal and operational reasons.
 
