@@ -64,3 +64,6 @@ The entire devroom will be structured into several session blocks: Each block wi
 Then, as a second part of the block, a virtual live panel for 15 mins is planned with the speakers of the lightning talk as panelists and a moderator asking questions and moderating questions from the participants (assuming there will be a jitsi-like setup available). 
 With this approach we plan to support a combination of prepared presentations and  interactive discussions even for a virtual event.
 
+## Licensing of this Document
+
+In order to encourage fair reuse and credits when sharing text from this material in other dev room activities: This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.<br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
