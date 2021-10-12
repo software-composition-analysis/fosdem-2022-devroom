@@ -15,7 +15,7 @@ If you want to make your talk a bit more in-theme with the conference at large, 
 
 ## Some submission ideas:
 
-- Tracing
+- Trackling and Tracing
   - Binary analysis that trace and guess the libraries compiled or minified in larger packages
   - Build tracing and instrumentation for provenance and compliance
   - Tools that can analyze, resolve and trace dependencies
@@ -51,4 +51,16 @@ If you want to make your talk a bit more in-theme with the conference at large, 
 
 ## Why us?
 
-We represent several collaborating and diverse FOSS projects and foundations such as Fossology, FASTEN, SW360, ScanCode and VulnerableCode from OW2, Eclipse, the Linux Foundation and independent projects.  We co-organized separately two dev rooms at FOSDEM 2020 that were both successful but would have been even more interesting combined together. We want to organize this joint dev room this year with a longer duration (1 full day) and hopefully will be all able to meet in person again.
+We represent several collaborating and diverse FOSS projects and foundations such as Fossology, FASTEN, SW360, ScanCode and VulnerableCode from OW2, Eclipse, the Linux Foundation and independent projects.  We co-organized separately two dev rooms (Dependency Management and Software Composition) at FOSDEM 2020 that were both successful but would have been even more interesting combined together. We want to organize this joint dev room this year with a longer duration (1 full day) and hopefully will be all able to meet in person again.
+
+## Why FOSDEM?
+
+Software composition and dependency management are important for software at large and for FOSS software in particular. The related field of OSS license compliance was included in the past years in the Legal and Policy Devroom, but in the last few FOSDEM the Legal and Policy Devroom focus has been much more on policy and less on tooling. This is a good thing in of itself, but it has left FOSS developers of such tools without an outlet to meet and collaborate at FOSDEM. The continuation from a successful FOSDEM devroom last year feels like a natural progression. There was a real interest for the topic then and it has grown since.
+
+Since this is going to be a virtual event, we are planning to use the following structure:
+
+The entire devroom will be structured into several session blocks: Each block will be dedicated to a relevant topic, as listed above. Each of the blocks are planned to start with 4 to 5 short lightning talks about 10-15 minutes each as the first part. These presentations will be pre-recorded ahead of time by each of the presenters.
+
+Then, as a second part of the block, a virtual live panel for 15 mins is planned with the speakers of the lightning talk as panelists and a moderator asking questions and moderating questions from the participants (assuming there will be a jitsi-like setup available). 
+With this approach we plan to support a combination of prepared presentations and  interactive discussions even for a virtual event.
+
