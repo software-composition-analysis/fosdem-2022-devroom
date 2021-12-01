@@ -61,7 +61,7 @@ Then, in the second part of the session, the three speakers of this session will
 
 With this combination of shorter recorded talks and longer live Q&A panel discussions, we expect a more interactive and lively virtual devroom event.
 
-Once your talk is accepted, we will be there to help you to produce the pre-recorded content. We will review the content, ensure it has the required quality and make sure (after you upload it) the content is into the system and ready to broadcast. On the D day, you must be available online during the whole "block" to answer participants questions received in the chat.
+Once your presentation is accepted, we will be there to help you to produce the pre-recorded content.  Be ready to start recording right away the record will need to be uploaded two weeks before FOSDEM such that the volunteer organizers have enough time to get the ready. We will review the content to check that it has acceptable quality and make sure the content is correctly available in the FOSDEM system and ready for broadcast. On our FOSDEM day, you **mus** be available online during the whole session duration to answer participants questions received in the chat and participate in the live Jitsi session. Note that we will try to adjust your scheduling preference requests if possible, but in general the reference time zone for the event is Brussels time! 
     
 ## How to submit?
 
