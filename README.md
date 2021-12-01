@@ -59,7 +59,7 @@ The entire devroom will be structured into several session blocks: Each block wi
 
 Then, in the second part of the session, the three speakers of this session will join for a 30 minutes **live online panel** on Jitsi for live Q&A and panel discussion moderated by one of the volunteer organizers of this devroom.
 
-With this approach we plan to support a combination of prepared presentations and interactive discussions even for a virtual event.
+With this combination of shorter recorded talks and longer live Q&A panel discussions, we expect a more interactive and lively virtual devroom event.
 
 Once your talk is accepted, we will be there to help you to produce the pre-recorded content. We will review the content, ensure it has the required quality and make sure (after you upload it) the content is into the system and ready to broadcast. On the D day, you must be available online during the whole "block" to answer participants questions received in the chat.
     
