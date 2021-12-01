@@ -82,11 +82,11 @@ What information are required:
   - mobile number (this is a very hard requirement as there will be no other reliable form of emergency communication on the day)
 
 Create an event:
-- On the General page: Event title (required) / Event subtitle (optionnal).
+- On the General page: Event title (required) / Event subtitle (optional).
 - Track: Select "Software composition and dependency management devroom"
 - Event type: Lecture (talk)
 - Persons: Add yourself as speaker with your bio.
-- Description: Abstract (required) / Full Description (optionnal)
+- Description: Abstract (required) / Full Description (optional)
 - Links: Add relevant links.
 
 If you have any issues, please contact dependency-devroom-manager at fosdem.org. You can also send us a notification of your submission there.
