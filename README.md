@@ -87,7 +87,7 @@ If you have any issues, please contact dependency-devroom-manager at fosdem.org.
 
 **Important dates:**
 - December 19th 2021: Deadline for submission of proposals
-- December 27th 2021: Final notification to authors
+- December 27th 2021: You receive a notification that your presentation has been accepted or not
 - December 31th 2021: Developer rooms publish complete schedules
 - First two weeks of January: Period for recording and uploading talks by speakers
 
