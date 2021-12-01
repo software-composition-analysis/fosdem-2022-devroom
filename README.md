@@ -57,7 +57,7 @@ If you have any issues, please contact dependency-devroom-manager at fosdem.org.
   - Automating policies
   - SCA combined with other techniques, such as static analysis
 
-If you are some suggestions, if you are not sure you talk fit in the devroom theme feel free to post in the [discussions](https://github.com/software-composition-analysis/fosdem-2022-devroom/discussions) section.
+If you have some suggestions, if you are not sure you talk fit in the devroom theme feel free to post in the [discussions](https://github.com/software-composition-analysis/fosdem-2022-devroom/discussions) section.
 
 ## Talks format
 
@@ -69,7 +69,7 @@ Each session will group three presentations related to the same general topic fo
 
 Each session will start by a 45 minutes segment with **three short presentations**, about 15 minutes each maximum. 
 
-These presentations must be **pre-recorded** ahead of time and uploaded two weeks before FOSDEM i.e., by January 22nd 2022.
+These presentations must be **pre-recorded** ahead of time and uploaded three weeks before FOSDEM i.e., by January 14th 2022.
 
 Then, in the second part of the session, the three speakers of this session will join for a 30 minutes **live online panel** on Jitsi for live Q&A and panel discussion moderated by one of the volunteer organizers of this devroom.
 
