@@ -57,7 +57,7 @@ Since this is going to be a virtual event, we are planning to use the following 
 
 The entire devroom will be structured into several session blocks: Each block will be dedicated to a relevant topic, as listed above. Each of the blocks are planned to start with 3 short **lightning talks about 15 minutes** (might be a little bit less but not more) each as the first part. These presentations need to be **pre-recorded** ahead of time.
 
-Then, as a second part of the block, a **virtual live panel for 30 mins** is planned with the speakers of the lightning talk as panelists and a moderator asking questions and moderating questions from the participants. 
+Then, in the second part of the session, the three speakers of this session will join for a 30 minutes **live online panel** on Jitsi for live Q&A and panel discussion moderated by one of the volunteer organizers of this devroom.
 
 With this approach we plan to support a combination of prepared presentations and interactive discussions even for a virtual event.
 
