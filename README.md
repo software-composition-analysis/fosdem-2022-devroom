@@ -70,7 +70,7 @@ Please submit your proposals at https://penta.fosdem.org/submission/FOSDEM22 Dea
 If you already have a Pentabarf account (for example as a result of having submitted a proposal in the past), make sure you use it to log in and submit your proposal. Do not create a new account if you already have one. Please provide a bit of information about yourself under Person -> Description -> Abstract. When you submit your proposal (creating an "Event" in Pentabarf), make sure you choose "Software composition and dependency management devroom" in the track drop-down menu. Otherwise your proposal might go unnoticed. Fill in at least a title and abstract for the proposed talk (note that abstract and full description will be concatenated).
 
 What information are required: 
-- General: First and last name / Nickname (optionnal) / Image
+- General: First and last name / Nickname (optional) / Picture
 - Contact:
   - email address
   - mobile number (this is a very hard requirement as there will be no other reliable form of emergency communication on the day)
