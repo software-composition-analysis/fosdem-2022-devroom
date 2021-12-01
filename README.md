@@ -1,6 +1,6 @@
 # FOSDEM 2022
 
-## Devroom Title: "Software composition and dependency management"
+## Software composition and dependency management devroom
 
 As we all assemble more and more complex software from an ever growing number of free and open source software components, knowing what's in our code is a must for security, legal and operational reasons.
 
@@ -49,20 +49,45 @@ If you want to make your talk a bit more in-theme with the conference at large, 
   - Automating policies
   - SCA combined with other techniques, such as static analysis
 
-## Why us?
-
-We represent several collaborating and diverse FOSS projects and foundations such as Fossology, FASTEN, SW360, ScanCode and VulnerableCode from OW2, Eclipse, the Linux Foundation and independent projects.  We co-organized separately two dev rooms (Dependency Management and Software Composition) at FOSDEM 2020 that were both successful but would have been even more interesting combined together. We want to organize this joint dev room this year with a longer duration (1 full day) and hopefully will be all able to meet in person again.
-
-## Why FOSDEM?
-
-Software composition and dependency management are important for software at large and for FOSS software in particular. The related field of OSS license compliance was included in the past years in the Legal and Policy Devroom, but in the last few FOSDEM the Legal and Policy Devroom focus has been much more on policy and less on tooling. This is a good thing in of itself, but it has left FOSS developers of such tools without an outlet to meet and collaborate at FOSDEM. The continuation from a successful FOSDEM devroom last year feels like a natural progression. There was a real interest for the topic then and it has grown since.
+## Talks format
 
 Since this is going to be a virtual event, we are planning to use the following structure:
 
-The entire devroom will be structured into several session blocks: Each block will be dedicated to a relevant topic, as listed above. Each of the blocks are planned to start with 4 to 5 short lightning talks about 10-15 minutes each as the first part. These presentations will be pre-recorded ahead of time by each of the presenters.
+The entire devroom will be structured into several session blocks: Each block will be dedicated to a relevant topic, as listed above. Each of the blocks are planned to start with 3 short **lightning talks about 15 minutes** (might be a little bit less but not more) each as the first part. These presentations need to be **pre-recorded** ahead of time.
 
-Then, as a second part of the block, a virtual live panel for 15 mins is planned with the speakers of the lightning talk as panelists and a moderator asking questions and moderating questions from the participants (assuming there will be a jitsi-like setup available). 
-With this approach we plan to support a combination of prepared presentations and  interactive discussions even for a virtual event.
+Then, as a second part of the block, a **virtual live panel for 30 mins** is planned with the speakers of the lightning talk as panelists and a moderator asking questions and moderating questions from the participants. 
+
+With this approach we plan to support a combination of prepared presentations and interactive discussions even for a virtual event.
+
+Once your talk is accepted, we will be there to help you to produce the pre-recorded content. We will review the content, ensure it has the required quality and make sure (after you upload it) the content is into the system and ready to broadcast. On the D day, you must be available online during the whole "block" to answer participants questions received in the chat.
+    
+## How to submit?
+
+Please submit your proposals at https://penta.fosdem.org/submission/FOSDEM22 Deadline: **December 19th 2021**.
+
+If you already have a Pentabarf account (for example as a result of having submitted a proposal in the past), make sure you use it to log in and submit your proposal. Do not create a new account if you already have one. Please provide a bit of information about yourself under Person -> Description -> Abstract. When you submit your proposal (creating an "Event" in Pentabarf), make sure you choose "Software composition and dependency management devroom" in the track drop-down menu. Otherwise your proposal might go unnoticed. Fill in at least a title and abstract for the proposed talk (note that abstract and full description will be concatenated).
+
+What information are required: 
+- General: First and last name / Nickname (optionnal) / Image
+- Contact:
+  - email address
+  - mobile number (this is a very hard requirement as there will be no other reliable form of emergency communication on the day)
+
+Create an event:
+- On the General page: Event title (required) / Event subtitle (optionnal).
+- Track: Select "Software composition and dependency management devroom"
+- Event type: Lecture (talk)
+- Persons: Add yourself as speaker with your bio.
+- Description: Abstract (required) / Full Description (optionnal)
+- Links: Add relevant links.
+
+If you have any issues, please contact dependency-devroom-manager at fosdem.org. You can also send us a notification of your submission there.
+
+**Important dates:**
+- December 19th 2021: Deadline for submission of proposals
+- December 27th 2021: Final notification to authors
+- December 31th 2021: Developer rooms publish complete schedules
+- First two weeks of January: Period for recording and uploading talks by speakers
 
 ## Licensing of this Document
 
