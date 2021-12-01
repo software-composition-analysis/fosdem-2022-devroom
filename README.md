@@ -55,7 +55,13 @@ If you are some suggestions, if you are not sure you talk fit in the devroom the
 
 Since this is going to be a virtual event, we are planning to use the following structure:
 
-The entire devroom will be structured into several session blocks: Each block will be dedicated to a relevant topic, as listed above. Each of the blocks are planned to start with 3 short **lightning talks about 15 minutes** (might be a little bit less but not more) each as the first part. These presentations need to be **pre-recorded** ahead of time.
+The devroom will be organized in multiple sessions of 1:30 hour each. 
+
+Each session will group three presentations related to the same general topic followed by a live panel discussion and QA session with the presenters. 
+
+Each session will start by a 45 minutes segment with **three short presentations**, about 15 minutes each maximum. 
+
+These presentations must be **pre-recorded** ahead of time and uploaded two weeks before FOSDEM i.e., by January 22nd 2022.
 
 Then, in the second part of the session, the three speakers of this session will join for a 30 minutes **live online panel** on Jitsi for live Q&A and panel discussion moderated by one of the volunteer organizers of this devroom.
 
