@@ -13,6 +13,14 @@ Are you contributing to a FOSS project that aims to make the lives of developers
 We are interested in demos, presentations and panel discussions on software composition analysis, dependencies management and related topics.
 If you want to make your talk a bit more in-theme with the conference at large, take a peek at what FOSDEM published from previous years. Also, keep in mind this event is about free and open source software, not proprietary code and data.
 
+If you have any issues, please contact dependency-devroom-manager at fosdem.org. You can also send us a notification of your submission there.
+
+**Important dates:**
+- December 19th 2021: Deadline for submission of proposals
+- December 27th 2021: You receive a notification that your presentation has been accepted or not
+- December 31th 2021: Developer rooms publish complete schedules
+- First two weeks of January: Period for recording and uploading talks by speakers
+
 ## Some submission ideas:
 
 - Dependencies and Tracing
@@ -88,14 +96,6 @@ Create an event:
 - Persons: Add yourself as speaker with your bio.
 - Description: Abstract (required) / Full Description (optional)
 - Links: Add relevant links.
-
-If you have any issues, please contact dependency-devroom-manager at fosdem.org. You can also send us a notification of your submission there.
-
-**Important dates:**
-- December 19th 2021: Deadline for submission of proposals
-- December 27th 2021: You receive a notification that your presentation has been accepted or not
-- December 31th 2021: Developer rooms publish complete schedules
-- First two weeks of January: Period for recording and uploading talks by speakers
 
 ## Licensing of this Document
 
